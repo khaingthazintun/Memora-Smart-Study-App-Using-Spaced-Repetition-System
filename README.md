@@ -1,4 +1,4 @@
-# spaced_repetition_learning_system
+# Memora-Smart Study App Using Spaced Repetition System
 <<<<<<< HEAD
 
 A new Flutter project.
